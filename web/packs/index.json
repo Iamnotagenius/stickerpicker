@@ -1,7 +1,8 @@
 {
   "packs": [
     "Stickers.json",
-	"Bocchi_chan_E_by_fStikBot.json"
+    "Bocchi_chan_E_by_fStikBot.json",
+    "YuiPack.json"
   ],
   "homeserver_url": "https://matrix.community.xn--e1aapasdb2ag.xn--p1ai"
 }
